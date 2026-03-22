@@ -8,7 +8,7 @@ Welcome to my resume repository! Below you can view my resume directly:
 
 ### [📥 View/Download Resume](./Akshat_Mehta_Resume.pdf)
 
-[![Download Resume](https://img.shields.io/badge/Download-Resume%20PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](./Akshat_Mehta_Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download-Resume%20PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](./Akshat_Mehta_CV.pdf)
 
 </div>
 
